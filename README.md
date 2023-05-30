@@ -2,6 +2,8 @@
 
 This is a simple JS-part implementation of the Pig Game, developed as part of Jonas Schmedtmann's JavaScript course project.
 
+Check the ./starter folder for my version of the project.
+
 ## Game Rules
 
 ![Game screenshot](./starter/screenshot.png)
